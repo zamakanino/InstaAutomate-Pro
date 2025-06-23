@@ -102,6 +102,10 @@ To create an executable like the one provided in releases:
 
     The executable will be generated in the `dist` folder.
 
+## 🐛 Bug Reports & Feature Requests
+
+Encountered a bug or have an idea for a new feature? Please report it on the [GitHub Issues page](https://github.com/zamakanino/InstaAutomate-Pro/issues). Your feedback helps improve the project!
+
 ## 🤝 Support & Donation
 
 This project is open-source and developed in my free time. If you find it useful, consider supporting its continued development:
