@@ -1,9 +1,5 @@
 # InstaAutomate Pro (v1.01)
 
-<p align="center">
-  <img src="https://placehold.co/600x300/e0e0e0/333333?text=Application+Screenshot+Goes+Here" alt="Application Screenshot" width="600"/>
-</p>
-
 A powerful and user-friendly desktop application built with Python and Playwright for automating Instagram actions like following, liking, and commenting. This tool allows users to manage multiple Instagram accounts and perform actions efficiently, with customizable delays and proxy support.
 
 ## ✨ Features
@@ -28,7 +24,7 @@ A powerful and user-friendly desktop application built with Python and Playwrigh
 ### Installation (for Windows .exe users)
 
 1.  **Download the latest executable:**
-    Go to the [Releases](https://github.com/your-username/your-repo-name/releases) section of this repository and download the `InstaAutomate_Pro_v1.01.exe` file.
+    Go to the [Releases](https://github.com/zamakanino/InstaAutomate-Pro/releases) section of this repository and download the `InstaAutomate_Pro_v1.01.exe` file.
 2.  **Create `accounts.txt`:** In the same directory as the `.exe`, create a file named `accounts.txt`.
     * Each line should contain an Instagram account's credentials.
     * Format for accounts without proxy: `username:password`
