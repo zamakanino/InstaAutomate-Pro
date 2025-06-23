@@ -24,7 +24,7 @@ A powerful and user-friendly desktop application built with Python and Playwrigh
 ### Installation (for Windows .exe users)
 
 1.  **Download the latest executable:**
-    Go to the [Releases](https://github.com/zamakanino/InstaAutomate-Pro/releases) section of this repository and download the `InstaAutomate_Pro_v1.01.exe` file.
+    Go to the [Releases section](https://github.com/zamakanino/InstaAutomate-Pro/releases) of this repository and download the `InstaAutomate_Pro_v1.01.exe` file.
 2.  **Create `accounts.txt`:** In the same directory as the `.exe`, create a file named `accounts.txt`.
     * Each line should contain an Instagram account's credentials.
     * Format for accounts without proxy: `username:password`
@@ -67,15 +67,15 @@ If you wish to run the script directly or modify it:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/zamakanino/InstaAutomate-Pro.git](https://github.com/zamakanino/InstaAutomate-Pro.git)
+    cd InstaAutomate-Pro
     ```
 2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     playwright install
     ```
-    (You'll need to create a `requirements.txt` file containing `tkinter`, `ttkbootstrap`, `requests`, `playwright`).
+    (You'll need to create a `requirements.txt` file containing `ttkbootstrap`, `requests`, `playwright`).
 3.  **Run the script:**
     ```bash
     python instagram_bot.py
@@ -117,7 +117,3 @@ This project is open-source and developed in my free time. If you find it useful
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:** Remember to replace `your-username` and `your-repo-name` with your actual GitHub username and repository name once you create it. Also, update the placeholder screenshot with a real one!
